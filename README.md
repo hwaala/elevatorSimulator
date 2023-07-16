@@ -29,18 +29,15 @@ The project sufficiently accomplishes the given prompt. Please see Enhancement I
 *While this doesn't really make sense for a script, it does align with how elevators work.
 
 # To Run the Script
-After cloning the repo locally, enter `./elevator-simulator-<Operating System> <one or more floors to visit>` (e.g., `./elevator-simulator-macos 12 2 9 1 32`)
-
-Alternatively, after cloning the repo locally:
+After cloning the repo locally:
 1. Enter `npm init`
 2. Enter `npm ci`
 3. Enter `tsc`
 4. Enter `npm run start <one or more floors to visit>`
 
-# To Edit Scripts
+# To Edit Script
 After cloning the repo locally, to edit the script:
 1. Enter `npm init`
 2. Enter `npm ci`
 3. Makes changes to the files.
 4. Enter `tsc`
-5. Enter `pkg .`

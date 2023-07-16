@@ -1,6 +1,6 @@
 {
   "name": "elevator-simulator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "typescript": "^5.1.6"
   },
@@ -9,9 +9,5 @@
   },
   "scripts": {
     "start": "node ./javascript/elevatorScript.js"
-  },
-  "bin": {
-    "executable": "javascript/script.js"
   }
-
 }
